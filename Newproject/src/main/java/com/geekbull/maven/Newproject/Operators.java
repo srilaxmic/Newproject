@@ -10,6 +10,7 @@ int a,b,c;
 		System.out.println("-");
 		System.out.println("=");
 		System.out.println("%");
+		System.out.println("/");
 
 	}
 
